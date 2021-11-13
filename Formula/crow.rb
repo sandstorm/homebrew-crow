@@ -4,8 +4,8 @@
 class Crow < Formula
   desc "Save cli commands and fuzzy find them later"
   homepage "https://github.com/sandstorm/crow"
-  url "https://github.com/sandstorm/crow/releases/download/v0.1.0-beta-12/crow.tar.gz"
-  sha256 "c600426970cc9f5ef005ab79fbd85957e0b986e2d0d494e9b508a557f110ebb5"
+  url "https://github.com/sandstorm/crow/releases/download/v0.1.0/crow.tar.gz"
+  sha256 "031d83d443de8e89a4ceeeaf109f94a971b7b71cae50517648a82a6a6a7168bb"
   license "MIT"
 
   def install
