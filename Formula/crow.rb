@@ -9,6 +9,6 @@ class Crow < Formula
   license "MIT"
 
   def install
-    bin.install "target/release/crow"
+    bin.install "crow"
   end
 end
